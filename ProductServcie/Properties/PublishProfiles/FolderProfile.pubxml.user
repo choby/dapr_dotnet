@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\choby\source\repos\dapr_dotnet\ProductServcie\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2021-12-26T10:40:43.5703245Z;False|2021-12-26T18:19:41.6544492+08:00;True|2021-12-26T18:00:40.7692908+08:00;True|2021-12-26T17:43:41.4687046+08:00;</History>
+  </PropertyGroup>
+</Project>
